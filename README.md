@@ -1,4 +1,9 @@
 # 👋 Hello, I'm Khôi
+### I'm a coder from VietNam
+- 🧐 I'm study at SGU University
+- 📫 Email: khoipham160766@gmail.com
+
+
 - 👋 Hi, I’m @khoipham160766
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
