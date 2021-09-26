@@ -3,15 +3,6 @@
 - 🧐 I'm study at SGU University
 - 📫 Email: khoipham160766@gmail.com
 ### Contact me with:
-[Facebook](https://www.facebook.com/pham.khoi.79274/)
-
-- 👋 Hi, I’m @khoipham160766
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-khoipham160766/khoipham160766 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--<p align="left">
+<a href="https://www.facebook.com/pham.khoi.79274/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="phamtrankhoi" height="30" width="40" /></a>
+</p>-->
