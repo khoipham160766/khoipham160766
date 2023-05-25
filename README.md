@@ -2,6 +2,8 @@
 ## I'M A CODER FROM VIETNAM
 - 🧐 I'm study at SGU University
 - 📫 Email: khoipham160701@gmail.com
+- ☎️ Phone: 0794667091
+- 🏠 Address: District 12, Ho Chi Minh City
 ## CONTACT WITH ME:
 <a href="https://www.facebook.com/pham.khoi.79274/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
 ## 🛠 TECHNOLOGIES AND TOOLS 🛠
